@@ -1,37 +1,14 @@
 # Learning-Notes-APP
 
 #### 介绍
-学习札记快速整理软件
 
-#### 软件架构
-软件架构说明
+学习札记快速整理软件 v1.0.0
 
+这是一款面向学生群体以及会议较多、需要记录的人群的APP。出于学习生活中遇到的不便之处，解决学习工作中不断获取的信息难以记录整理分类、不能充分利用课堂资源进行复习和整理笔记的痛点。让用户在接受大量信息的同时，能够快速整理笔记，并对照片和零散的笔记进行进一步的整理，极大地简化学习和工作生活。
 
-#### 安装教程
+#### 安装
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+下载本仓库中的 `apk` 文件来安装。
 
 
-#### 码云特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
