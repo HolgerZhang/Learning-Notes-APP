@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Learning-Notes-record&amp;Ocr.iml" filepath="$PROJECT_DIR$/Learning-Notes-record&amp;Ocr.iml" group="Learning-Notes-record&amp;Ocr" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Learning-Notes-record&amp;Ocr/app" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" group="Learning-Notes-record&amp;Ocr/core" />
+    </modules>
+  </component>
+</project>
